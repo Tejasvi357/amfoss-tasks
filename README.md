@@ -19,6 +19,9 @@ I intend to contribute to the club by actively participating in coding projects,
 
 
 My fields of interest include coding, Robotics, and Artificial Intelligence. To work on these, I plan to:
+
 1.Engage in Hands-On Projects: Actively participate in relevant projects to apply my knowledge and solve real-world problems
+
 2.Pursue Continuous Learning: Stay updated with the latest advancements through courses and self-study.
+
 3.Collaborate with Peers: Work with fellow members to exchange ideas and contribute to innovative solutions.
